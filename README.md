@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # HTML5-2019-HTML
 Code repository for HTML5 2019: HTML, published by Packt
 # HTML5 2019 HTML
